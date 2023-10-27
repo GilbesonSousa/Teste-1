@@ -1,1 +1,3 @@
 Teste 1 - subindo o 1º arquivo para o GitHub
+
+Adicionando informações - Linha 1
